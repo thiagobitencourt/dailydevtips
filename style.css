@@ -72,6 +72,12 @@
   margin: 0 5px;
 }
 
+.footer-content a {
+  color: var(--text-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .footer-content .fas,
 .footer-content a:hover {
   color: var(--terciary-color);
