@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+:root {
+  --text-color: #e5e5e5;
+  --primary-color: #3b064d;
+  --secondary-color: #6f0094;
+  --terciary-color: #b030b0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.page-container {
+  height: 100vh;
+  width: 100vw;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: var(--text-color);
+  background-color: var(--primary-color);
+}
+
+.page-display {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-header {
+  font-size: 1.1em;
+  padding: 1em 20%;
+  text-align: center;
+}
+
+.button {
+  cursor: pointer;
+  padding: 0.8em;
+  margin: 0.2em;
+  min-width: 150px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 8px;
+  color: var(--text-color);
+  background: var(--primary-color);
+  border: 2px solid var(--secondary-color);
+}
+
+.button:active,
+.button:hover {
+  background-color: var(--secondary-color);
+}
+
+.button-icon {
+  min-width: 50px;
+}
+
+/* MAIN CONTENT */
+.main-content #current-tip {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+/* FOOTER */
+.footer-content {
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+.footer-content .fas {
+  margin: 0 5px;
+}
+
+.footer-content .fas,
+.footer-content a:hover {
+  color: var(--terciary-color);
+}
+
+/* RESPONSIVE */
+@media screen and (max-width: 490px) {
+  .page-header {
+    font-size: 0.9em;
+  }
+}
