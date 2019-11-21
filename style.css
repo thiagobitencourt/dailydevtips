@@ -29,9 +29,12 @@
 }
 
 .page-header {
-  font-size: 1.1em;
   padding: 1em 20%;
   text-align: center;
+}
+
+.page-header h1 {
+  font-size: 30px;
 }
 
 .button {
@@ -57,13 +60,18 @@
 }
 
 /* MAIN CONTENT */
+.main-content {
+  padding: 0 50px;
+  text-align: center;
+}
+
 .main-content #current-tip {
-  font-size: 3em;
+  font-size: 26px;
   font-weight: bold;
 }
 
 .main-content #current-tip .loading-text {
-  font-size: 0.5em;
+  font-size: 26px;
   color: var(--secondary-color);
 }
 
@@ -90,7 +98,7 @@
 
 /* RESPONSIVE */
 @media screen and (max-width: 490px) {
-  .page-header {
-    font-size: 0.9em;
+  .page-header h1 {
+    font-size: 22px;
   }
 }
