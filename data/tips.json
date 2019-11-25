@@ -1,7 +1,7 @@
 {
   "tips": [
     {
-      "tip": "Get good at google",
+      "tip": "Get good at Googling",
       "description": "Being a programmer is all about learning how to search for the answers to your questions. By learning to Google things effectively, you'll save a lot of development time."
     },
     {
@@ -15,6 +15,394 @@
     {
       "tip": "Find a mentor",
       "description": "Find someone you can learn from and bounce ideas off of. Coding Coach is a great place to get started if you need a technical mentor!"
+    },
+    {
+      "tip": "Be a mentor",
+      "description": "Be someone others can learn from and bounce ideas off of. We'd love to have you as a mentor over at Coding Coach"
+    },
+    {
+      "tip": "Write useful comments",
+      "description": "Write comments which explain the \"why\" and not the \"what\"."
+    },
+    {
+      "tip": "Name variables and functions appropriately",
+      "description": "Functions and variables should accurately denote their purpose, so myCoolFunction won't fly."
+    },
+    {
+      "tip": "Take vacations",
+      "description": "We all need time to de-compress. Take that trip you've been wanting. Your brain and your co-workers will thank you."
+    },
+    {
+      "tip": "Delete unused code",
+      "description": "No reason to accrue more technical debt."
+    },
+    {
+      "tip": "Learn to read code",
+      "description": "Reading code is an undervalued skill, but an invaluable one."
+    },
+    {
+      "tip": "Establish a healthy work/life balance",
+      "description": "You need time to de-compress after a long workday. Shut off work notifications, remove apps off your phone."
+    },
+    {
+      "tip": "Only schedule necessary meetings",
+      "description": "Can it be solved in an email or a Slack message? If so, avoid a meeting. If not, be conscious of the duration. Aim for less."
+    },
+    {
+      "tip": "Pair program",
+      "description": "Pair programming allows you to play the role of both teacher and student."
+    },
+    {
+      "tip": "Write great emails",
+      "description": "Learn to capture your audience in your emails by being succinct yet clear. Nobody wants to read your four-page email Jerry."
+    },
+    {
+      "tip": "Get involved in the community",
+      "description": "Surrounding yourself with like-minded people will motivate you to push through the lows."
+    },
+    {
+      "tip": "Clean up your branches",
+      "description": "Clean up your version control branches like you'd clean your house before your in-laws came for a visit. If you don't need it, discard it; don't just throw it in the closet."
+    },
+    {
+      "tip": "Don't gate keep",
+      "description": "Be inclusive. Don't tell others they aren't good enough to be in the industry. Everyone has value."
+    },
+    {
+      "tip": "Keep learning",
+      "description": "You've chosen a profession that requires continuous learning. Learn to love it."
+    },
+    {
+      "tip": "Don't give up",
+      "description": "It won't always be easy. But we all started at the same place. You can do it."
+    },
+    {
+      "tip": "Take tasks that scare you",
+      "description": "If it doesn't scare you, it isn't going to help you grow."
+    },
+    {
+      "tip": "Clarify requirements before starting",
+      "description": "You should understand the acceptance criteria before delving into writing the code. It will save you time and pain later down the line."
+    },
+    {
+      "tip": "Have a toolbox",
+      "description": "Have a set of tools which you know inside-and-out. Know which tools serve which purpose and when a project can benefit from using one over another."
+    },
+    {
+      "tip": "Learn to love constructive criticism",
+      "description": "Ask trusted colleagues and friends for constructive criticism. It will help you grow as a programmer and as a human."
+    },
+    {
+      "tip": "Be open-minded",
+      "description": "Technology changes, and it changes quickly. Don't oppose new technology; learn it and then form an opinion."
+    },
+    {
+      "tip": "Stay relevant",
+      "description": "Stay up-to-date on the latest tech news by following publications, blogs, podcasts, and tech news."
+    },
+    {
+      "tip": "Focus on problem solving",
+      "description": "Strong problem solving skills can conquer any problem. Hone in on what it takes to solve a problem."
+    },
+    {
+      "tip": "Stay humble",
+      "description": "No matter what title you hold or what company you work form, stay humble."
+    },
+    {
+      "tip": "Learn to give a great presentation",
+      "description": "Learn how to captivate your audience and give effective presentations."
+    },
+    {
+      "tip": "Examine all solutions before jumping in",
+      "description": "Don't jump straight into the first possible solution. Examine all paths before delving into the code."
+    },
+    {
+      "tip": "Find your niche",
+      "description": "There are many divisions within the tech industry. Find the area that interests you most and become an expert."
+    },
+    {
+      "tip": "Develop good habits",
+      "description": "Try to build consistent, and healthy, habits such as removing distractions, time-boxing tasks, being present in meetings, and starting with the most important task first. It might take some getting used to but it will be worth it in the long-run."
+    },
+    {
+      "tip": "Learn to debug",
+      "description": "Explore the browser debugger tools. Learn the ins-and-outs of debugging with your IDE. By learning the most effective methods for debugging a problem and tracing errors, you'll be able to solve even the most difficult bugs."
+    },
+    {
+      "tip": "Exercise your current skills",
+      "description": "Just because you currently know a skill doesn't mean you shouldn't exercise it. Skills fade with time unless consciously improved upon, and this industry evolves so rapidly it's important to keep practicing. Get out of the mindset that \"I've always done it this way\" and into the mindset of \"Is there a better way to do this?\""
+    },
+    {
+      "tip": "Understand the why",
+      "description": "There will be times when you have to voice your opinion, so it's important to understand the why behind it. Why is solution A better than solution B? Provide a valid argument and your opinions will be much more sound."
+    },
+    {
+      "tip": "Know your worth",
+      "description": "You are a commodity, and should be paid appropriately. Be aware of the industry averages in your geographic location. If you're making less money, it's time to have a chat with your manager. Go after what you deserve."
+    },
+    {
+      "tip": "Don't be afraid to ask for help",
+      "description": "If you're stuck on a problem and spending too much time searching for a solution, it's time to ask for help. We're all human. We all need help. There is no shame in reaching out to a colleague for support."
+    },
+    {
+      "tip": "Learn to learn",
+      "description": "People learn in different ways. Some learn best through video tutorials, others through reading a book. Figure out your learning style and practice it diligently."
+    },
+    {
+      "tip": "Be kind",
+      "description": "There will be times when you're asked to provide feedback on a colleague. Be kind. You can voice your opinions about Deborah's lack of initiative without ripping her to shreds."
+    },
+    {
+      "tip": "Take breaks",
+      "description": "It's nearly impossible to spend 8 consecutive hours coding. You'll burn out quickly and make a lot of mistakes. So set a timer to remind yourself to stop and take a break. Go for a walk. Get a coffee with a colleague. Stepping away from the screen will positively impact your productivity and the quality of your work."
+    },
+    {
+      "tip": "Track your progress",
+      "description": "Learning to code takes time and can be extremely disheartening when you don't see progress. So it's important to track your achievements and progress towards your goals. Keep a small list next to your computer and each time you achieve something, write it down, no matter how small. Atomic achievements compound to much larger rewards."
+    },
+    {
+      "tip": "Don't rely on a framework or library",
+      "description": "Learn the nuances of a language better than the ins-and-outs of a framework or library. You don't necessarily need to learn one before another, but understanding why a framework or library works the way it does will help you write cleaner and more performant code."
+    },
+    {
+      "tip": "Learn to love code reviews",
+      "description": "Having someone read and analyze your code can be terrifying, but can offer you invaluable feedback which will make you a better programmer. You should also work on your ability to conduct a good code review."
+    },
+    {
+      "tip": "Learn about tangential spaces",
+      "description": "Learn some basics about tangential spaces, such as design, marketing, frontend development or backend development. It will help you to become a more well-rounded programmer."
+    },
+    {
+      "tip": "Don't choose the comfortable technology; choose the right one",
+      "description": "Each project will have different needs, and as such we must choose the right tools for the job. Although it's comfortable to choose technologies you've worked with previously, if they don't suit the needs of the project, alternatives should be explored."
+    },
+    {
+      "tip": "Take responsibility for your mistakes",
+      "description": "All humans make mistakes and you will many many throughout your career. Thus it's important to own up and take responsibility when you've made a mistake. It will build trust with your team members and management."
+    },
+    {
+      "tip": "Review your own code",
+      "description": "Before opening a pull request, review your own code. If this were the work of a colleague, what comments would you make? It's important to first try to diagnose problems or mistakes before requesting a code review."
+    },
+    {
+      "tip": "Learn from your failures",
+      "description": "Failure is simply not achieving the expected outcome, and is not necessarily a bad thing. We all have many failures during the course of our careers. Learn from your downfalls. What can you do differently next time?"
+    },
+    {
+      "tip": "Recognize your weaknesses",
+      "description": "Get to know yourself. What are your weaknesses? Maybe you always forget to update the tests before pushing. Or maybe you are really bad at replying to emails. Learn your weaknesses so you can actively work to address them."
+    },
+    {
+      "tip": "Stay curious",
+      "description": "This industry is ever-evolving, so curiosity will be important. If you don't understand something, be it a project requirement or a line of code, speak up. Nobody will criticize you for asking for clarification and you'll create better code as a result."
+    },
+    {
+      "tip": "Don't try to learn everything",
+      "description": "There is an infinity pool of knowledge in the world and it is simply impossible to conquer it all. Pick several topics to master and leave the rest be. You can acquire working or tangential knowledge about other areas, but you cannot possibly master everything."
+    },
+    {
+      "tip": "Kill your darlings",
+      "description": "Just because you write some code doesn't mean you need t be emotionally attached to it. Nobody likes their work being thrown out, but code has a life cycle, so there's no need to be territorial about it."
+    },
+    {
+      "tip": "Have your team's back",
+      "description": "Good teams have each others' backs. This creates a safe space to try new things without fear of retribution."
+    },
+    {
+      "tip": "Find inspiration in the community",
+      "description": "Find a few people in the industry you admire. It will inspire you to keep working on your projects or try new things."
+    },
+    {
+      "tip": "Value your work",
+      "description": "Regardless of how much experience you have or what your job title is, your work has value. Give it the value it deserves."
+    },
+    {
+      "tip": "Disable distractions",
+      "description": "Turning off Slack notifications, text messages, emails, and social media will help you focus and maximize your workday.Jerry won't fall apart if it takes you 30 minutes to respond to his message."
+    },
+    {
+      "tip": "Be supportive",
+      "description": "Try and support your team members whether that's by attending an important presentation or helping them if they get stuck."
+    },
+    {
+      "tip": "Give credit where credit is due",
+      "description": "If someone does great work, tell them. Positive re-enforcement is a great way to build trust with your team members and help their careers. They'll be more likely to help you along as well."
+    },
+    {
+      "tip": "Test your code",
+      "description": "Tests are important. Unit tests, regression tests, integration tests, end-to-end tests. Test your code and your product will be much more stable."
+    },
+    {
+      "tip": "Plan out your approach",
+      "description": "When you receive a new feature request or get a new bug ticket, first plan your attack. What do you need to solve this problem or develop this feature? Taking even just a few minutes to plan your attack can save you hours of frustration."
+    },
+    {
+      "tip": "Learn to pseudocode",
+      "description": "Pseudocoding is a great skill to have because it allows you to think through complex problems without wasting time writing lines of code. Write an approach down on paper, run through different test cases and see where the pitfalls are."
+    },
+    {
+      "tip": "Keep track of your achievements",
+      "description": "If you win an award at work, write it down. If you develop a crucial feature, write it down. You'll create a backlog of things which can aid with a promotion or boost your morale on a tough day."
+    },
+    {
+      "tip": "Learn programming foundations",
+      "description": "Learn some basic sorting and searching algorithms and data structures. These are language-agnostic and can help you solve problems across languages."
+    },
+    {
+      "tip": "Choose technology for longevity & maintainability",
+      "description": "Although it's fun to test out the newest technologies, pick those which will be easy to maintain within an enterprise application. Your team will thank you for years to come."
+    },
+    {
+      "tip": "Learn design patterns",
+      "description": "Design patterns are useful tools for architecting code. You may not need them for every project, but having a basic understanding of them will help scaffold out larger applications."
+    },
+    {
+      "tip": "Reduce ambiguity",
+      "description": "Instead of writing convoluted code which shows off your snazzy programming skills, aim for readability and simplicity. This will make it easier for your team members to contribute."
+    },
+    {
+      "tip": "Pay off technical debt",
+      "description": "Technical debt can have massive performance implications, so if you're able to refactor, you should."
+    },
+    {
+      "tip": "Ship often",
+      "description": "Instead of shipping a massive upgrade once every month, ship more frequently with smaller changelogs. You're less likely to introduce bugs and breaking changes."
+    },
+    {
+      "tip": "Commit early and often",
+      "description": "Committing early and committing often is the best way to ensure that your work remains clean and also reduces the stress of accidentally reverting important changes."
+    },
+    {
+      "tip": "Learn when to ask for help",
+      "description": "Not only should you not be afraid to ask for help, but you should learn when to ask for help. You should always try to solve a problem before asking for help, and keep track of the things you try. But when you've been stumped by a simple problem for over an hour, the cost outweighs the benefit, and you should reach out to a colleague."
+    },
+    {
+      "tip": "Ask effective questions",
+      "description": "When asking a question, try to be as specific as possible."
+    },
+    {
+      "tip": "Get feedback on unfinished work",
+      "description": "Your work doesn't need to be finished for you to get feedback. If you're uncertain of the direction, ask a trusted colleague to review the validity of your solution."
+    },
+    {
+      "tip": "Read documentation",
+      "description": "Documentation is the purest source of truth about a technology, so learning to read it can quickly help you to become an expert."
+    },
+    {
+      "tip": "Try all the things",
+      "description": "Nothing is stopping you from trying a solution to a problem. What do you have to lose?"
+    },
+    {
+      "tip": "Speak up in meetings",
+      "description": "Your ideas and opinions are valuable so participating in meetings will help you develop a rapport with your team as well as management."
+    },
+    {
+      "tip": "Collaborate cross-team",
+      "description": "If you get an opportunity to with with another team in your company, go for it."
+    },
+    {
+      "tip": "Have passion projects",
+      "description": "When you work 40 hours a week, it's important to take time for passion projects. They help you reinvigorate your love of programming and try new technologies you might not have access to at work."
+    },
+    {
+      "tip": "Define your career goals",
+      "description": "It's important to have an idea of your ideal trajectory for your career. If you don't, you're trying to shoot an arrow without having a target."
+    },
+    {
+      "tip": "Get involved in the conversation",
+      "description": "Comment on blogs, participate in Twitter threads. Engage with the community. You'll learn a lot more from being an active bystander than a wallflower."
+    },
+    {
+      "tip": "Prioritize tasks",
+      "description": "Learning to prioritize your tasks will help you enhance your productivity. Keep an active to-do list of immediate daily tasks as well as longer-term tasks and order them by most important."
+    },
+    {
+      "tip": "Don't overlook the details",
+      "description": "Details can make a big difference in a project."
+    },
+    {
+      "tip": "Trust your teammates",
+      "description": "Your teammates were hired for their skills. Use them and trust them to get the job done."
+    },
+    {
+      "tip": "Learn to delegate",
+      "description": "If you're in a leadership position, learn how to delegate effectively. It will save you time and frustration. You cannot do it all."
+    },
+    {
+      "tip": "Don't compare yourself to others",
+      "description": "The only thing you should compare yourself to is who you were yesterday."
+    },
+    {
+      "tip": "Surround yourself with allies",
+      "description": "Learning to program will be a long, and not always easy, journey. Surround yourself with the people who build you up and encourage you to keep going."
+    },
+    {
+      "tip": "Don't start for scale",
+      "description": "Starting for scale is a surefire way to become overwhelmed. Build with scalability in mind, but don't start scaling until you need it. This way you don't overwhelm your team with unnecessary bloat, but you maintain the ability to grow."
+    },
+    {
+      "tip": "Weigh performance implications",
+      "description": "If you want to use a cool, new technology you should weigh the performance implications of doing so. Could you implement something similar without taking a performance hit? If so, you may want to re-think your approach."
+    },
+    {
+      "tip": "Don't discriminate",
+      "description": "Don't discriminate against new technologies or ideas. Be open-minded about the possibility of learning new skills. Also don't discriminate against people. We all deserve respect."
+    },
+    {
+      "tip": "Apply for jobs you aren't qualified for",
+      "description": "You will never meet every requirement for a job. So take a chance and apply! What do you have to lose?"
+    },
+    {
+      "tip": "Modularize your code",
+      "description": "You could write all of your code in one long file, but this isn't maintainable. By modularizing, we ensure that our code is easily digestible and testable."
+    },
+    {
+      "tip": "Don't JUST copy and paste",
+      "description": "If you're going to copy and paste a solution from Stack Overflow, you should understand exactly what it does. Be intentional about the code you choose to introduce."
+    },
+    {
+      "tip": "Create an inspiring environment/setup",
+      "description": "You'll be much more motivated to work if you enjoy your workspace and technical setup. Make it you."
+    },
+    {
+      "tip": "Remember where you came from",
+      "description": "We all started from the same place. As your skills and your job titles evolve, don't forget where you came from."
+    },
+    {
+      "tip": "Try to remain optimistic",
+      "description": "If something goes wrong, try and be optimistic. Tomorrow is a new day. Optimism will help your team dynamic and your mental health."
+    },
+    {
+      "tip": "Continually re-assess your workflow",
+      "description": "Just because something works now doesn't mean it always will. Re-evaluate your workflow and make adjustments where necessary."
+    },
+    {
+      "tip": "Learn how to work from home",
+      "description": "If you have the ability to work from home, learn to do so effectively. Find a separate office space, devoid of distractions. Boneskull wrote a great article on working from home you should check out."
+    },
+    {
+      "tip": "Code for accessibility",
+      "description": "Accessibility isn't an afterthought, and it doesn't have to be difficult. Everyone should be able to use your products."
+    },
+    {
+      "tip": "Honor your commitments",
+      "description": "If you tell someone you'll deliver something by a certain date, honor that commitment. And if you can no longer make the deadline, speak up early."
+    },
+    {
+      "tip": "Be proactive",
+      "description": "If you have some extra bandwidth, find a task to help your team! They'll be thankful you were proactive."
+    },
+    {
+      "tip": "Build an amazing portfolio",
+      "description": "A great portfolio sets you apart from the crowd. Use this as a chance to show off your programming and design skills!"
+    },
+    {
+      "tip": "Remember why you love programming",
+      "description": "You got into this profession because it sparked an interest. If you're getting frustrated and resentful, take a break. Give yourself space to reignite your passion for programming."
+    },
+    {
+      "tip": "Share your knowledge",
+      "description": "If you learn something cool, share it! Present at a local meetup or conference. Teach your coworker or mentee during lunch. Sharing your knowledge reinforces your knowledge while spreading the wealth."
     }
   ]
 }
