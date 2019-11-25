@@ -2,19 +2,19 @@
   "tips": [
     {
       "tip": "Get good at google",
-      "description": ""
+      "description": "Being a programmer is all about learning how to search for the answers to your questions. By learning to Google things effectively, you'll save a lot of development time."
     },
     {
       "tip": "Under promise and over deliver",
-      "description": ""
+      "description": "It's better to let your team know a task will take three weeks and deliver in two than the other way around. By under promising and over delivering, you'll build trust."
     },
     {
       "tip": "Be nice to your designers; they're your friends",
-      "description": ""
+      "description": "Designers provide solutions to user pain points. Learn from them and work cohesively to build effective products."
     },
     {
       "tip": "Find a mentor",
-      "description": ""
+      "description": "Find someone you can learn from and bounce ideas off of. Coding Coach is a great place to get started if you need a technical mentor!"
     }
   ]
 }

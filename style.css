@@ -50,6 +50,21 @@
   border: 2px solid var(--secondary-color);
 }
 
+.button.button-link:active,
+.button.button-link:hover {
+  background: var(--primary-color);
+  color: var(--terciary-color);
+}
+
+.button.button-link {
+  border: none;
+  color: var(--secondary-color);
+}
+
+.button:focus {
+  outline: none;
+}
+
 .button:active,
 .button:hover {
   background-color: var(--secondary-color);
@@ -72,6 +87,36 @@
 
 .main-content #current-tip .loading-text {
   font-size: 26px;
+  color: var(--secondary-color);
+}
+
+/* DESCRIPTION */
+#current-tip.loading + .tip-description {
+  display: none;
+}
+
+.tip-description.is-open .current-description {
+  display: flex;
+}
+
+.tip-description .current-description {
+  margin-top: 7px;
+  font-style: italic;
+  flex-direction: column;
+  align-items: flex-start;
+  max-height: 300px;
+  overflow: hidden;
+  overflow-y: auto;
+  display: none;
+}
+
+.tip-description .current-description > * {
+  margin-left: 7px;
+}
+
+.tip-description .current-description #tip-index {
+  font-size: 14px;
+  font-weight: bold;
   color: var(--secondary-color);
 }
 

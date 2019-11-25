@@ -1,4 +1,6 @@
 const dataSource = {};
+const LESS = 'LESS...';
+const MORE = 'MORE...';
 
 window.addEventListener('load', function() {
   const nextTipButton = document.getElementById('next-tip');
@@ -6,8 +8,14 @@ window.addEventListener('load', function() {
 
   loadTips().then(function() {
     loadNextTip();
+    addToggleDescriptionEvent();
   });
 });
+
+function addToggleDescriptionEvent() {
+  const toggleDescriptionButton = document.getElementById('toggle-button');
+  toggleDescriptionButton.addEventListener('click', toggleDescription);
+}
 
 function loadTips() {
   return fetch('./data/tips.json')
@@ -40,7 +48,27 @@ function setCurrentTip(tip) {
 }
 
 function injectTip(tip) {
-  const { tip: tipText } = tip;
   const tipElement = document.getElementById('current-tip');
-  tipElement.innerText = tipText;
+  const descriptionIndex = document.getElementById('tip-index');
+  const descriptionText = document.getElementById('tip-description-text');
+
+  tipElement.innerText = tip.tip;
+  descriptionIndex.innerText = `${tip.index + 1}/${dataSource.tips.length}`;
+  descriptionText.innerText = tip.description;
+  
+  tipElement.classList = "";
+}
+
+function toggleDescription() {
+  const toggleDescriptionButton = document.getElementById('toggle-button');
+  const tipDescriptionDiv = document.getElementById('tip-description');
+  const isOpen = toggleDescriptionButton.innerText === LESS;
+
+  if (isOpen) {
+    toggleDescriptionButton.innerText = MORE;
+    tipDescriptionDiv.classList.remove('is-open');
+  } else {
+    tipDescriptionDiv.classList.add('is-open');
+    toggleDescriptionButton.innerText = LESS;
+  }
 }

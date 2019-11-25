@@ -19,9 +19,18 @@
       <h1>Tips for being a great programmer</h1>
     </header>
     <main class="main-content">
-      <p id="current-tip">
+      <p id="current-tip" class="loading">
         <span class="loading-text">Loading...</span>
       </p>
+      <div class="tip-description" id="tip-description">
+        <p class="current-description">
+          <span id="tip-index"></span>
+          <span id="tip-description-text"></span>
+        </p>
+        <button class="button button-link toggle" id="toggle-button">
+          More...
+        </button>
+      </div>
     </main>
     <section>
       <button class="button" id="next-tip">Next tip</button>
