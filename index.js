@@ -4,7 +4,9 @@ const MORE = 'MORE...';
 
 window.addEventListener('load', function() {
   const nextTipButton = document.getElementById('next-tip');
+  const infoToggleButton = document.querySelector('.actions .button.dropdown-toggle');
   nextTipButton.addEventListener('click', loadNextTip);
+  infoToggleButton.addEventListener('click', toggleInforPanel);
 
   loadTips().then(function() {
     loadNextTip();
@@ -70,5 +72,15 @@ function toggleDescription() {
   } else {
     tipDescriptionDiv.classList.add('is-open');
     toggleDescriptionButton.innerText = LESS;
+  }
+}
+
+function toggleInforPanel() {
+  const infoToggleButton = document.querySelector('.actions .button.dropdown-toggle');
+  const isOpen = infoToggleButton.classList.contains('open');
+  if (isOpen) {
+    infoToggleButton.classList.remove('open');
+  } else {
+    infoToggleButton.classList.add('open');
   }
 }
